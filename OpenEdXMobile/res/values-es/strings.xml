@@ -265,7 +265,9 @@ Para mantenerte en el camino adecuado, puedes actualizar este calendario y mover
   <!--Title Sync to calendar-->
   <string name="sync_to_calendar_message">Sincronizar automáticamente todos los plazos y fechas de vencimiento de este curso con tu calendario.</string>
   <!--Title to request calendar permission-->
+  <string name="title_request_calendar_permission">\“{platform_name}\” quiere acceder a tu calendario</string>
   <!--Message to request calendar permission-->
+  <string name="message_request_calendar_permission">{platform_name} quiere usar tu lista de calendario para subscribirse a tu calendario personalizado de {platform_name} para este curso.</string>
   <!--Title to add calendar for course-->
   <string name="title_add_course_calendar">agregar calendario \"{course_name}\"</string>
   <!--Message to add calendar for course-->
